@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    scroll-behavior:smooth;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+html{
+    scroll-behavior: smooth;
+}
+img{
+    width:200px;
+    height:200px;
+}
+#contact{
+    text-align: left;
+}
+#rickroll{
+ margin-bottom: 10px;
+ 
+}
+.givespacemarginbottom{
+  margin-bottom:3px;
+}
+.imggivespace{
+  margin-bottom:5px;
+}
+#alumni{
+  text-align:center;
+}
+#change{
+    color:red;
+    font-size: medium;
+}
+#contact{
+    text-align: center;
+}
+#give-space{
+    margin-bottom: 10px;
+}
+#campuslife img {
+    width: 250px;
+    height: 250px;
+}
